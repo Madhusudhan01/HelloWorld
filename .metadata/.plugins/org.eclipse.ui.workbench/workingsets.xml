@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642055316115_1" label="[Helloworld]" name="[Helloworld]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Helloworld" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642055284018_0" label="Window Working Set" name="Aggregate for window 1642055284017"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642057748337_2" label="Window Working Set" name="Aggregate for window 1642057748337"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642598931032_3" label="Window Working Set" name="Aggregate for window 1642598931032"/>
+</workingSetManager>
